@@ -27,13 +27,24 @@
 
 <!-- Beautiful animated skill icons -->
 <div align="center">
+  <h4>Frontend</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,scss,nodejs,express,python,django,java,cpp,go&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,scss" />
   </a>
   <br />
-  <br />
+  <h4>Backend</h4>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,docker,kubernetes,aws,gcp,git,github,linux,figma,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,cpp,go" />
+  </a>
+  <br />
+  <h4>Database & Cloud</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,aws,gcp" />
+  </a>
+  <br />
+  <h4>Tools & DevOps</h4>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,figma,vscode" />
   </a>
 </div>
 
