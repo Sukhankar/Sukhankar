@@ -96,7 +96,7 @@
 
 <div align="center">
   <!-- Dynamic Visitor Counter -->
-  <img src="https://profile-counter.glitch.me/Sukhankar/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Sukhankar&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
 </div>
 
 <div align="center">
