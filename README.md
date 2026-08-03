@@ -79,7 +79,7 @@
   
   <br/>
   <div align="center">
-    <a href="https://linkedin.com/in/Sukhankar" target="_blank">
+    <a href="https://in.linkedin.com/in/sukhankar-hanaminahal" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://twitter.com/Sukhankar" target="_blank">
