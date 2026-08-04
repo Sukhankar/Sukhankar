@@ -1,0 +1,29 @@
+name: Daily Dev Quote Update
+
+on:
+  schedule:
+    # Runs automatically at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger anytime from GitHub Actions tab
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update Daily Quote Cache Buster
+        run: |
+          TODAY=$(date +%Y-%m-%d)
+          echo "Updating quote cache buster for date: $TODAY"
+          sed -i -E "s|quotes-github-readme\.vercel\.app/api\?type=horizontal[^\"]*|quotes-github-readme.vercel.app/api?type=horizontal\&theme=dark\&bgColor=0D1117\&borderColor=00F0FF\&quoteColor=00F0FF\&authorColor=39FF14\&v=$TODAY|g" README.md
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update daily dev quote [skip ci]"
+          branch: ${{ github.head_ref || github.ref_name }}
