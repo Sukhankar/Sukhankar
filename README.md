@@ -1,30 +1,24 @@
-<div align="center">
-
+<p align="center">
   <!-- Animated Header — cyan/green/blue gradient wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:39FF14,100:3B82F6&height=200&section=header&text=Hi%20there,%20I'm%20Sukhankar!&fontSize=52&fontColor=00F0FF&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Contributor%20%E2%80%A2%20Lifelong%20Learner&descAlignY=68&descAlign=50&descColor=39FF14" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:39FF14,100:3B82F6&height=200&section=header&text=Hi%20there,%20I'm%20Sukhankar!&fontSize=52&fontColor=00F0FF&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Contributor%20%E2%80%A2%20Lifelong%20Learner&descAlignY=68&descAlign=50&descColor=39FF14" alt="Header Banner" width="100%" />
+</p>
 
-</div>
-
-<div align="center">
-
+<p align="center">
   <!-- Typing Animation — neon cyan -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=45&lines=Full-Stack+Developer;Open+Source+Contributor;UI%2FUX+Enthusiast;System+Design+Explorer;Lifelong+Learner" alt="Typing SVG" />
   </a>
-
-</div>
+</p>
 
 ---
 
 <!-- Quick status badges -->
-<div align="center">
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=Sukhankar&label=Profile%20Views&color=00F0FF&style=flat)
-  ![GitHub followers](https://img.shields.io/github/followers/Sukhankar?label=Followers&color=39FF14&style=flat)
-  ![GitHub stars](https://img.shields.io/github/stars/Sukhankar?label=Stars&color=3B82F6&style=flat)
-  ![GitHub commits](https://img.shields.io/github/commit-activity/y/Sukhankar?label=Yearly%20Commits&color=FF4757&style=flat)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sukhankar&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Sukhankar?label=Followers&color=39FF14&style=flat-square" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/Sukhankar?label=Stars&color=3B82F6&style=flat-square" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/commit-activity/y/Sukhankar?label=Yearly%20Commits&color=FF4757&style=flat-square" alt="GitHub commits" />
+</p>
 
 ---
 
@@ -50,26 +44,26 @@
 
   <br/>
 
-  <table>
+  <table align="center">
     <tr>
       <td align="right"><b>Frontend</b></td>
-      <td><a href="https://skillicons.dev"><img height="38" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,scss&theme=dark" /></a></td>
+      <td><a href="https://skillicons.dev"><img height="38" src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,scss&theme=dark" alt="Frontend Skills" /></a></td>
     </tr>
     <tr>
       <td align="right"><b>Backend</b></td>
-      <td><a href="https://skillicons.dev"><img height="38" src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,cpp,go&theme=dark" /></a></td>
+      <td><a href="https://skillicons.dev"><img height="38" src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,cpp,go&theme=dark" alt="Backend Skills" /></a></td>
     </tr>
     <tr>
       <td align="right"><b>Database & Cloud</b></td>
-      <td><a href="https://skillicons.dev"><img height="38" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,aws,gcp&theme=dark" /></a></td>
+      <td><a href="https://skillicons.dev"><img height="38" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,aws,gcp&theme=dark" alt="Database and Cloud Skills" /></a></td>
     </tr>
     <tr>
       <td align="right"><b>Tools & DevOps</b></td>
-      <td><a href="https://skillicons.dev"><img height="38" src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,figma,vscode&theme=dark" /></a></td>
+      <td><a href="https://skillicons.dev"><img height="38" src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,figma,vscode&theme=dark" alt="Tools Skills" /></a></td>
     </tr>
     <tr>
-      <td align="right"><b>Currently exploring</b></td>
-      <td><a href="https://skillicons.dev"><img height="38" src="https://skillicons.dev/icons?i=rust,graphql,prisma,supabase&theme=dark" /></a></td>
+      <td align="right"><b>Exploring</b></td>
+      <td><a href="https://skillicons.dev"><img height="38" src="https://skillicons.dev/icons?i=rust,graphql,prisma,supabase&theme=dark" alt="Currently Exploring Skills" /></a></td>
     </tr>
   </table>
 
@@ -78,39 +72,50 @@
 <details open>
   <summary><h2>📊 Stats and Activity</h2></summary>
 
-  <h3>🔥 Streak Stats</h3>
-  <p>
+  <br/>
+
+  <p align="center">
     <a href="https://github.com/Sukhankar">
-      <img title="Get streak stats at git.io/streak-stats" alt="Sukhankar's streak" src="https://streak-stats.demolab.com/?user=Sukhankar&theme=github-dark-blue&hide_border=true&short_numbers=true&ring=00F0FF&fire=FF4757&currStreakLabel=00F0FF&sideLabels=39FF14&dates=3B82F6" height="160" />
+      <img title="Streak Stats" alt="Sukhankar's streak" src="https://streak-stats.demolab.com/?user=Sukhankar&theme=github-dark-blue&hide_border=true&short_numbers=true&ring=00F0FF&fire=FF4757&currStreakLabel=00F0FF&sideLabels=39FF14&dates=3B82F6" height="160" />
     </a>
   </p>
 
-  <h3>💻 GitHub Profile Stats</h3>
-  <a href="https://github.com/Sukhankar"><img alt="Sukhankar's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Sukhankar&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=39FF14&text_color=FFFFFF&ring_color=3B82F6" height="160" /></a>
-  <a href="https://github.com/Sukhankar"><img alt="Sukhankar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Sukhankar&langs_count=8&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=39FF14&text_color=FFFFFF&card_color=3B82F6" height="160" /></a>
-
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-  <br/><br/>
-
-  <h3>🏆 GitHub Trophies</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="Sukhankar's Trophies" src="https://github-profile-trophy.vercel.app/?username=Sukhankar&theme=algolia&no-frame=true&margin-w=15&column=7&rank=-,S,SS,SSS" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/Sukhankar"><img alt="Sukhankar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Sukhankar&bg_color=0D1117&color=00F0FF&line=39FF14&point=3B82F6&hide_border=true&area=true&area_color=00F0FF30" width="92%" /></a>
-
-  <h3>🐍 Contribution Snake Animation</h3>
   <p align="center">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Sukhankar/Sukhankar/output/github-contribution-grid-snake-dark.svg" />
+    <a href="https://github.com/Sukhankar">
+      <img alt="Sukhankar's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Sukhankar&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=39FF14&text_color=FFFFFF&ring_color=3B82F6" height="165" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Sukhankar">
+      <img alt="Sukhankar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukhankar&langs_count=8&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=39FF14&text_color=FFFFFF&card_color=3B82F6" height="165" />
+    </a>
   </p>
 
-  <h3>⚡ Recent GitHub Activity</h3>
-  <!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
+  <p align="center">
+    <b>Note:</b> Top languages metric is based on public repositories and code contributions.
+  </p>
+
+  <br/>
+
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img alt="Sukhankar's Trophies" src="https://github-profile-trophy.vercel.app/?username=Sukhankar&theme=algolia&no-frame=true&margin-w=15&column=7&rank=-,S,SS,SSS" />
+    </a>
+  </p>
+
+  <br/>
+
+  <p align="center">
+    <a href="https://github.com/Sukhankar">
+      <img alt="Sukhankar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Sukhankar&bg_color=0D1117&color=00F0FF&line=39FF14&point=3B82F6&hide_border=true&area=true&area_color=00F0FF30" width="95%" />
+    </a>
+  </p>
+
+  <br/>
+
+  <h3 align="center">🐍 Contribution Snake Animation</h3>
+  <p align="center">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Sukhankar/Sukhankar/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </p>
 
 </details>
 
@@ -119,34 +124,24 @@
 
   <br/>
 
-  <table>
+  <table align="center">
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/Sukhankar">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sukhankar&theme=transparent&bg_color=0D1117&title_color=00F0FF&icon_color=39FF14&text_color=FFFFFF&hide_border=true" alt="Featured Repo 1" />
+        <a href="https://github.com/Sukhankar/Sukhankar">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sukhankar&repo=Sukhankar&theme=transparent&bg_color=0D1117&title_color=00F0FF&icon_color=39FF14&text_color=FFFFFF&hide_border=true" alt="Featured Repo 1" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/Sukhankar">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sukhankar&theme=transparent&bg_color=0D1117&title_color=00F0FF&icon_color=39FF14&text_color=FFFFFF&hide_border=true" alt="Featured Repo 2" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/Sukhankar">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sukhankar&theme=transparent&bg_color=0D1117&title_color=00F0FF&icon_color=39FF14&text_color=FFFFFF&hide_border=true" alt="Featured Repo 3" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/Sukhankar">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sukhankar&theme=transparent&bg_color=0D1117&title_color=00F0FF&icon_color=39FF14&text_color=FFFFFF&hide_border=true" alt="Featured Repo 4" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sukhankar&repo=Sukhankar&theme=transparent&bg_color=0D1117&title_color=00F0FF&icon_color=39FF14&text_color=FFFFFF&hide_border=true" alt="Featured Repo 2" />
         </a>
       </td>
     </tr>
   </table>
 
-  <i>💡 Replace the pinned repo cards above with your actual repo slugs, e.g. <code>?username=Sukhankar&repo=your-repo-name</code>.</i>
+  <p align="center">
+    <i>💡 Replace <code>repo=Sukhankar</code> in the links above with your actual repository names (e.g. <code>repo=my-awesome-app</code>).</i>
+  </p>
 
 </details>
 
@@ -154,51 +149,49 @@
   <summary><h2>🌐 Let's Connect</h2></summary>
 
   <br/>
-  <div align="center">
 
+  <p align="center">
     <a href="https://in.linkedin.com/in/sukhankar-hanaminahal" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=flat-square&logo=linkedin&logoColor=0D1117" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn" />
     </a>
+    &nbsp;
     <a href="https://twitter.com/Sukhankar" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-3B82F6?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+      <img src="https://img.shields.io/badge/Twitter-3B82F6?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
     </a>
+    &nbsp;
     <a href="https://github.com/Sukhankar" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=39FF14" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub" />
     </a>
+    &nbsp;
     <a href="https://Sukhankar.dev" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-39FF14?style=flat-square&logo=web&logoColor=0D1117" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfolio" />
     </a>
+    &nbsp;
     <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-FF4757?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-FF4757?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+  </p>
 
-  </div>
   <br/>
 </details>
 
 ---
 
 <!-- Random Dev Quote -->
-<div align="center">
-
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bgColor=0D1117&borderColor=00F0FF&quoteColor=00F0FF&authorColor=39FF14" alt="Dev Quote" />
-
-</div>
+</p>
 
 <br/>
 
-<div align="center">
-
-  <!-- Animated Visitor Counter -->
+<!-- Visitor Counter -->
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sukhankar&label=Thanks%20for%20visiting!&color=00F0FF&style=flat-square" alt="Visitor Count" />
-
-</div>
+</p>
 
 <br/>
 
-<div align="center">
-
-  <!-- Animated Footer — matching gradient wave -->
+<!-- Animated Footer -->
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:39FF14,100:3B82F6&height=80&section=footer" width="100%" alt="Footer Banner" />
-
-</div>
+</p>
