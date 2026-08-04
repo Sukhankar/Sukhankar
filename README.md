@@ -16,8 +16,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc?username=Sukhankar&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Sukhankar?label=Followers&color=39FF14&style=flat-square" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/Sukhankar?label=Stars&color=3B82F6&style=flat-square" alt="GitHub stars" />
-  <img src="https://img.shields.io/github/commit-activity/y/Sukhankar?label=Yearly%20Commits&color=FF4757&style=flat-square" alt="GitHub commits" />
+  <img src="https://img.shields.io/github/stars/Sukhankar/Sukhankar?label=Stars&color=3B82F6&style=flat-square" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/commit-activity/y/Sukhankar/Sukhankar?label=Yearly%20Commits&color=FF4757&style=flat-square" alt="GitHub commits" />
 </p>
 
 ---
