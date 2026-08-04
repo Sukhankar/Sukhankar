@@ -14,7 +14,7 @@
 
 <!-- Quick status badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sukhankar&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc?username=Sukhankar&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Sukhankar?label=Followers&color=39FF14&style=flat-square" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/Sukhankar?label=Stars&color=3B82F6&style=flat-square" alt="GitHub stars" />
   <img src="https://img.shields.io/github/commit-activity/y/Sukhankar?label=Yearly%20Commits&color=FF4757&style=flat-square" alt="GitHub commits" />
@@ -76,17 +76,17 @@
 
   <p align="center">
     <a href="https://github.com/Sukhankar">
-      <img title="Streak Stats" alt="Sukhankar's streak" src="https://streak-stats.demolab.com/?user=Sukhankar&theme=github-dark-blue&hide_border=true&short_numbers=true&ring=00F0FF&fire=FF4757&currStreakLabel=00F0FF&sideLabels=39FF14&dates=3B82F6" height="160" />
+      <img title="Streak Stats" alt="Sukhankar's streak" src="https://streak-stats.demolab.com?user=Sukhankar&theme=github-dark-blue&hide_border=true&short_numbers=true&ring=00F0FF&fire=FF4757&currStreakLabel=00F0FF&sideLabels=39FF14&dates=3B82F6" height="165" />
     </a>
   </p>
 
   <p align="center">
     <a href="https://github.com/Sukhankar">
-      <img alt="Sukhankar's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Sukhankar&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=39FF14&text_color=FFFFFF&ring_color=3B82F6" height="165" />
+      <img alt="Sukhankar's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Sukhankar&show_icons=true&include_all_commits=true&count_private=true&theme=dark&title_color=00F0FF&icon_color=39FF14&text_color=FFFFFF&bg_color=0D1117&hide_border=true" height="165" />
     </a>
     &nbsp;
     <a href="https://github.com/Sukhankar">
-      <img alt="Sukhankar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukhankar&langs_count=8&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=39FF14&text_color=FFFFFF&card_color=3B82F6" height="165" />
+      <img alt="Sukhankar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs?username=Sukhankar&langs_count=8&layout=compact&theme=dark&title_color=00F0FF&text_color=FFFFFF&bg_color=0D1117&hide_border=true" height="165" />
     </a>
   </p>
 
@@ -97,16 +97,8 @@
   <br/>
 
   <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img alt="Sukhankar's Trophies" src="https://github-profile-trophy.vercel.app/?username=Sukhankar&theme=algolia&no-frame=true&margin-w=15&column=7&rank=-,S,SS,SSS" />
-    </a>
-  </p>
-
-  <br/>
-
-  <p align="center">
     <a href="https://github.com/Sukhankar">
-      <img alt="Sukhankar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Sukhankar&bg_color=0D1117&color=00F0FF&line=39FF14&point=3B82F6&hide_border=true&area=true&area_color=00F0FF30" width="95%" />
+      <img alt="Sukhankar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sukhankar&bg_color=0D1117&color=00F0FF&line=39FF14&point=3B82F6&hide_border=true&area=true&area_color=00F0FF30" width="95%" />
     </a>
   </p>
 
@@ -124,24 +116,44 @@
 
   <br/>
 
-  <table align="center">
+  <table align="center" width="100%">
     <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/Sukhankar/Sukhankar">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sukhankar&repo=Sukhankar&theme=transparent&bg_color=0D1117&title_color=00F0FF&icon_color=39FF14&text_color=FFFFFF&hide_border=true" alt="Featured Repo 1" />
-        </a>
+      <td width="50%" align="center" valign="top">
+        <h3><a href="https://github.com/Sukhankar/Sukhankar">⚡ Sukhankar Profile</a></h3>
+        <p><i>Personal GitHub profile README featuring custom themes and automated workflows.</i></p>
+        <p>
+          <img src="https://img.shields.io/github/stars/Sukhankar/Sukhankar?color=39FF14&style=flat-square" alt="Stars" />
+          <img src="https://img.shields.io/github/forks/Sukhankar/Sukhankar?color=00F0FF&style=flat-square" alt="Forks" />
+        </p>
       </td>
-      <td width="50%" align="center">
-        <a href="https://github.com/Sukhankar">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sukhankar&repo=Sukhankar&theme=transparent&bg_color=0D1117&title_color=00F0FF&icon_color=39FF14&text_color=FFFFFF&hide_border=true" alt="Featured Repo 2" />
-        </a>
+      <td width="50%" align="center" valign="top">
+        <h3><a href="https://github.com/Sukhankar">🌟 Full-Stack Web App</a></h3>
+        <p><i>Modern web application built with React, Node.js, and TypeScript.</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/Tech-React%20%7C%20Node-3B82F6?style=flat-square" alt="Tech" />
+          <img src="https://img.shields.io/badge/Status-Active-39FF14?style=flat-square" alt="Status" />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <h3><a href="https://github.com/Sukhankar">🤖 AI & ML Innovations</a></h3>
+        <p><i>Machine learning models, system architecture, and AI integrations.</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/Tech-Python%20%7C%20AI-FF4757?style=flat-square" alt="Tech" />
+          <img src="https://img.shields.io/badge/Status-Exploring-00F0FF?style=flat-square" alt="Status" />
+        </p>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <h3><a href="https://github.com/Sukhankar">🌐 Open Source Tools</a></h3>
+        <p><i>Developer utilities, CLI tools, and open source projects.</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/Tech-Go%20%7C%20Rust-39FF14?style=flat-square" alt="Tech" />
+          <img src="https://img.shields.io/badge/License-MIT-3B82F6?style=flat-square" alt="License" />
+        </p>
       </td>
     </tr>
   </table>
-
-  <p align="center">
-    <i>💡 Replace <code>repo=Sukhankar</code> in the links above with your actual repository names (e.g. <code>repo=my-awesome-app</code>).</i>
-  </p>
 
 </details>
 
@@ -186,7 +198,7 @@
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sukhankar&label=Thanks%20for%20visiting!&color=00F0FF&style=flat-square" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc?username=Sukhankar&label=Thanks%20for%20visiting!&color=00F0FF&style=flat-square" alt="Visitor Count" />
 </p>
 
 <br/>
