@@ -191,7 +191,7 @@
 
 <!-- Daily Dev Quote -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bgColor=0D1117&borderColor=00F0FF&quoteColor=00F0FF&authorColor=39FF14&v=2026-08-12" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bgColor=0D1117&borderColor=00F0FF&quoteColor=00F0FF&authorColor=39FF14&v=2026-08-13" alt="Dev Quote" />
 </p>
 
 <br/>
