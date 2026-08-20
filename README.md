@@ -32,7 +32,7 @@
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" height="20" /> &nbsp; I'm currently learning <strong>Advanced System Design, AI & Web3</strong></li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="20" height="20" /> &nbsp; I'm looking to collaborate on <strong>Open Source & Next-Gen Applications</strong></li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="20" height="20" /> &nbsp; Ask me about <strong>React, Node.js, Python, and UI Design</strong></li>
-    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Mailbox" width="20" height="20" /> &nbsp; How to reach me: <strong>your.email@example.com</strong></li>
+    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Mailbox" width="20" height="20" /> &nbsp; How to reach me: <strong>sukhankarsh@gmail.com</strong></li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="20" height="20" /> &nbsp; Fun fact: <strong>I can convert coffee into code!</strong> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="20" height="20" /></li>
     <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="20" height="20" /> &nbsp; Pronouns: <strong>He/Him</strong> &nbsp;·&nbsp; Timezone: <strong>IST (UTC+5:30)</strong></li>
   </ul>
@@ -179,7 +179,7 @@
       <img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=googlechrome&logoColor=0D1117" alt="Portfolio" />
     </a>
     &nbsp;
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:sukhankarsh@gmail.com">
       <img src="https://img.shields.io/badge/Email-FF4757?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
