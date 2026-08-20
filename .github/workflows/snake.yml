@@ -1,9 +1,9 @@
 name: Generate Contribution Snake
 
 on:
-  # run automatically every 24 hours
+  # run automatically every 1 hours
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */1 * * *"
   
   # allows to manually run the Job at any time
   workflow_dispatch:
