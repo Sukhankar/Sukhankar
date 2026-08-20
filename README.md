@@ -167,8 +167,8 @@
       <img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=0D1117" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="https://twitter.com/Sukhankar" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-3B82F6?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <a href="https://x.com/Sukhankar1" target="_blank">
+      <img src="https://img.shields.io/badge/X%20(Twitter)-00F0FF?style=for-the-badge&logo=x&logoColor=0D1117" alt="Twitter/X" />
     </a>
     &nbsp;
     <a href="https://github.com/Sukhankar" target="_blank">
