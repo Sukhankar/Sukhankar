@@ -76,7 +76,7 @@
 
   <p align="center">
     <a href="https://github.com/Sukhankar">
-      <img title="Streak Stats" alt="Sukhankar's streak" src="https://streak-stats.demolab.com?user=Sukhankar&theme=github-dark-blue&hide_border=true&short_numbers=true&ring=00F0FF&fire=FF4757&currStreakLabel=00F0FF&sideLabels=39FF14&dates=3B82F6" height="165" />
+      <img title="Streak Stats" alt="Sukhankar's streak" src="https://streak-stats.demolab.com/?user=Sukhankar&theme=github-dark-blue&hide_border=true&short_numbers=true&ring=00F0FF&fire=FF4757&currStreakLabel=00F0FF&sideLabels=39FF14&dates=3B82F6&v=2026-08-20" height="165" />
     </a>
   </p>
 
