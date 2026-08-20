@@ -27,23 +27,41 @@
 
   <br/>
 
-```bash
-> whoami --user Sukhankar
-```
+<table>
+<tr>
+<td width="60%" valign="top">
 
-  <p>
-    I design and build modern full-stack applications and scalable systems — crafting intuitive user interfaces, robust APIs, and performant backend architectures.
-  </p>
+I design and build **modern full-stack applications and scalable systems** — crafting intuitive user interfaces, robust APIs, and performant backend architectures.
+
+Currently focusing on **React, Node.js, Python, and System Design**, shipping open-source software and building next-gen web applications.
 
 ```typescript
 const sukhankar = new Developer({
-  role: "Full-Stack Developer & Open Source Contributor",
-  passions: ["Distributed Systems", "AI Engineering", "UI/UX Design"],
-  coreStack: ["React", "TypeScript", "Node.js", "Python", "Docker"],
-  currentlyLearning: ["Advanced System Design", "AI Models", "Web3"],
-  belief: "Clean architecture > Clever code"
+    Role      : "Full-Stack Developer",
+    Obsession : "Web Architecture & Clean Code",
+    Learning  : ["System Design", "AI Models", "Web3"],
+    Status    : "Converting coffee into production code ☕",
+    Belief    : "Clean architecture > clever code"
 });
 ```
+
+</td>
+<td width="40%" valign="top">
+
+### ⚡ At a glance
+
+| | |
+|---|---|
+| 🧠 **Focus** | Full-Stack & System Design |
+| 🏗️ **Builds** | Web Apps & Open Source |
+| ☁️ **Cloud** | AWS · Firebase · GCP |
+| 🔥 **Core** | React · Node.js · Python |
+| 📡 **Stack** | TypeScript · Next.js · Docker |
+| 📍 **Location** | IST (UTC+5:30) |
+
+</td>
+</tr>
+</table>
 
   <br/>
 
