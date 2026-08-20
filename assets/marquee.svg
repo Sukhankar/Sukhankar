@@ -1,17 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 50" width="100%" height="100%">
   <defs>
-    <style>
-      @keyframes marqueeScroll {
-        0% { transform: translateX(0px); }
-        100% { transform: translateX(-800px); }
-      }
-      .marquee-track {
-        animation: marqueeScroll 16s linear infinite;
-      }
-      .marquee-track:hover {
-        animation-play-state: paused;
-      }
-    </style>
     <linearGradient id="bg-marquee" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0D1117" />
       <stop offset="50%" stop-color="#161B22" />
@@ -21,8 +9,11 @@
 
   <rect width="800" height="50" rx="8" fill="url(#bg-marquee)" stroke="#30363D" stroke-width="1" />
 
-  <g font-family="'Fira Code', monospace" font-weight="700" font-size="13" class="marquee-track">
-    <!-- First Group -->
+  <!-- Marquee Scroll Group via Native SMIL animateTransform -->
+  <g font-family="'Fira Code', monospace" font-weight="700" font-size="13">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-840 0" dur="14s" repeatCount="indefinite" />
+
+    <!-- Group 1 -->
     <text x="40" y="30" fill="#00F0FF">⚡ REACT</text>
     <text x="140" y="30" fill="#8B949E">•</text>
     <text x="170" y="30" fill="#39FF14">⚡ TYPESCRIPT</text>
@@ -36,7 +27,7 @@
     <text x="710" y="30" fill="#00F0FF">⚡ SYSTEM DESIGN</text>
     <text x="850" y="30" fill="#8B949E">•</text>
 
-    <!-- Duplicate Group for Seamless Infinite Loop -->
+    <!-- Group 2 for Infinite Loop -->
     <text x="880" y="30" fill="#00F0FF">⚡ REACT</text>
     <text x="980" y="30" fill="#8B949E">•</text>
     <text x="1010" y="30" fill="#39FF14">⚡ TYPESCRIPT</text>

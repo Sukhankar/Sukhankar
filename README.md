@@ -1,10 +1,10 @@
 <!-- ═══════════════════════ HERO ═══════════════════════ -->
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Sukhankar — Full-Stack Developer"/>
+  <img src="https://raw.githubusercontent.com/Sukhankar/Sukhankar/main/assets/hero.svg" width="100%" alt="Sukhankar — Full-Stack Developer"/>
 </p>
 
 <p align="center">
-  <img src="assets/marquee.svg" width="100%" alt="Tech Marquee"/>
+  <img src="https://raw.githubusercontent.com/Sukhankar/Sukhankar/main/assets/marquee.svg" width="100%" alt="Tech Marquee"/>
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/github/commit-activity/y/Sukhankar/Sukhankar?label=Yearly%20Commits&color=FF4757&style=flat-square" alt="GitHub commits" />
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="divider"/>
+<img src="https://raw.githubusercontent.com/Sukhankar/Sukhankar/main/assets/divider.svg" width="100%" alt="divider"/>
 
 <details open>
   <summary><h2>👨‍💻 > whoami</h2></summary>
