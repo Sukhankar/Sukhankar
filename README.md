@@ -23,7 +23,27 @@
 ---
 
 <details open>
-  <summary><h2>👨‍💻 About Me</h2></summary>
+  <summary><h2>👨‍💻 > whoami</h2></summary>
+
+  <br/>
+
+```bash
+> whoami --user Sukhankar
+```
+
+  <p>
+    I design and build modern full-stack applications and scalable systems — crafting intuitive user interfaces, robust APIs, and performant backend architectures.
+  </p>
+
+```typescript
+const sukhankar = new Developer({
+  role: "Full-Stack Developer & Open Source Contributor",
+  passions: ["Distributed Systems", "AI Engineering", "UI/UX Design"],
+  coreStack: ["React", "TypeScript", "Node.js", "Python", "Docker"],
+  currentlyLearning: ["Advanced System Design", "AI Models", "Web3"],
+  belief: "Clean architecture > Clever code"
+});
+```
 
   <br/>
 
@@ -40,7 +60,7 @@
 </details>
 
 <details open>
-  <summary><h2>🛠️ Tech Stack & Skills</h2></summary>
+  <summary><h2>🛠️ > tech --stack</h2></summary>
 
   <br/>
 
