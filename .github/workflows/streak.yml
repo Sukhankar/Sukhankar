@@ -2,14 +2,12 @@ name: Update GitHub Streak Stats
 
 on:
   schedule:
-    # Run automatically at 00:00 UTC every day
-    - cron: "0 0 * * *"
+    # Runs automatically every 4 hours to calculate latest contributions & streak
+    - cron: "0 */4 * * *"
   push:
     branches:
       - main
       - master
-    paths:
-      - ".github/workflows/streak.yml"
   workflow_dispatch:
 
 jobs:
