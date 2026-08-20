@@ -49,7 +49,7 @@ const sukhankar = new Developer({
     WorkingOn     : "Awesome Projects & Ideas 🔭",
     Learning      : ["System Design", "AI", "Web3"],
     Collaborating : "Open Source & Next-Gen Apps 🤝",
-    AskMeAbout    : ["React", "Node.js", "Python", "UI Design"],
+    AskMeAbout    : ["Java","React", "Node.js", "Python", "UI Design"],
     Status        : "Converting coffee into code ☕⚡",
     Belief        : "Clean architecture > clever code"
 });
