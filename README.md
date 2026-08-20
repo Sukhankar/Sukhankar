@@ -37,7 +37,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 I design and build **modern full-stack applications and scalable systems** — crafting intuitive user interfaces, robust APIs, and performant backend architectures.
 
@@ -45,43 +45,36 @@ Currently focusing on **React, Node.js, Python, and System Design**, shipping op
 
 ```typescript
 const sukhankar = new Developer({
-    Role      : "Full-Stack Developer",
-    Obsession : "Web Architecture & Clean Code",
-    Learning  : ["System Design", "AI Models", "Web3"],
-    Status    : "Converting coffee into production code ☕",
-    Belief    : "Clean architecture > clever code"
+    Role          : "Full-Stack Developer",
+    WorkingOn     : "Awesome Projects & Ideas 🔭",
+    Learning      : ["System Design", "AI", "Web3"],
+    Collaborating : "Open Source & Next-Gen Apps 🤝",
+    AskMeAbout    : ["React", "Node.js", "Python", "UI Design"],
+    Status        : "Converting coffee into code ☕⚡",
+    Belief        : "Clean architecture > clever code"
 });
 ```
 
 </td>
-<td width="40%" valign="top">
+<td width="45%" valign="top">
 
 ### ⚡ At a glance
 
 | | |
 |---|---|
-| 🧠 **Focus** | Full-Stack & System Design |
-| 🏗️ **Builds** | Web Apps & Open Source |
-| ☁️ **Cloud** | AWS · Firebase · GCP |
-| 🔥 **Core** | React · Node.js · Python |
-| 📡 **Stack** | TypeScript · Next.js · Docker |
-| 📍 **Location** | IST (UTC+5:30) |
+| 🔭 **Working On** | Innovative Projects & Ideas |
+| 🌱 **Learning** | System Design, AI & Web3 |
+| 🤝 **Collaborate** | Open Source Applications |
+| 💬 **Ask Me About** | React, Node.js, Python & UI |
+| 📬 **Contact** | [sukhankarsh@gmail.com](mailto:sukhankarsh@gmail.com) |
+| ⚡ **Fun Fact** | Converting coffee into code ☕ |
+| 🚀 **Profile** | He/Him · IST (UTC+5:30) |
 
 </td>
 </tr>
 </table>
 
-  <br/>
 
-  <ul>
-    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="20" height="20" /> &nbsp; I'm currently working on <strong>Awesome Projects & Innovative Ideas</strong></li>
-    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="20" height="20" /> &nbsp; I'm currently learning <strong>Advanced System Design, AI & Web3</strong></li>
-    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="20" height="20" /> &nbsp; I'm looking to collaborate on <strong>Open Source & Next-Gen Applications</strong></li>
-    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" alt="Speech Balloon" width="20" height="20" /> &nbsp; Ask me about <strong>React, Node.js, Python, and UI Design</strong></li>
-    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Mailbox" width="20" height="20" /> &nbsp; How to reach me: <strong>sukhankarsh@gmail.com</strong></li>
-    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="20" height="20" /> &nbsp; Fun fact: <strong>I can convert coffee into code!</strong> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="20" height="20" /></li>
-    <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="20" height="20" /> &nbsp; Pronouns: <strong>He/Him</strong> &nbsp;·&nbsp; Timezone: <strong>IST (UTC+5:30)</strong></li>
-  </ul>
 
 </details>
 
