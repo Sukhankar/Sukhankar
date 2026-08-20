@@ -1,6 +1,10 @@
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
 <p align="center">
-  <!-- Animated Header — cyan/green/blue gradient wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:39FF14,100:3B82F6&height=200&section=header&text=Hi%20there,%20I'm%20Sukhankar!&fontSize=52&fontColor=00F0FF&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%E2%80%A2%20Open%20Source%20Contributor%20%E2%80%A2%20Lifelong%20Learner&descAlignY=68&descAlign=50&descColor=39FF14" alt="Header Banner" width="100%" />
+  <img src="assets/hero.svg" width="100%" alt="Sukhankar — Full-Stack Developer"/>
+</p>
+
+<p align="center">
+  <img src="assets/marquee.svg" width="100%" alt="Tech Marquee"/>
 </p>
 
 <p align="center">
@@ -10,8 +14,6 @@
   </a>
 </p>
 
----
-
 <!-- Quick status badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc?username=Sukhankar&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile Views" />
@@ -20,7 +22,7 @@
   <img src="https://img.shields.io/github/commit-activity/y/Sukhankar/Sukhankar?label=Yearly%20Commits&color=FF4757&style=flat-square" alt="GitHub commits" />
 </p>
 
----
+<img src="assets/divider.svg" width="100%" alt="divider"/>
 
 <details open>
   <summary><h2>👨‍💻 > whoami</h2></summary>

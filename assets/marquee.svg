@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 50" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-marquee" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="50%" stop-color="#161B22" />
+      <stop offset="100%" stop-color="#0D1117" />
+    </linearGradient>
+    <linearGradient id="glow-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF" />
+      <stop offset="50%" stop-color="#39FF14" />
+      <stop offset="100%" stop-color="#3B82F6" />
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="50" rx="8" fill="url(#bg-marquee)" stroke="#30363D" stroke-width="1" />
+
+  <g font-family="'Fira Code', monospace" font-weight="700" font-size="13">
+    <text x="40" y="30" fill="#00F0FF">⚡ REACT</text>
+    <text x="140" y="30" fill="#8B949E">•</text>
+    <text x="170" y="30" fill="#39FF14">⚡ TYPESCRIPT</text>
+    <text x="300" y="30" fill="#8B949E">•</text>
+    <text x="330" y="30" fill="#3B82F6">⚡ NODE.JS</text>
+    <text x="430" y="30" fill="#8B949E">•</text>
+    <text x="460" y="30" fill="#FF4757">⚡ PYTHON</text>
+    <text x="560" y="30" fill="#8B949E">•</text>
+    <text x="590" y="30" fill="#FFA500">⚡ DOCKER</text>
+    <text x="680" y="30" fill="#8B949E">•</text>
+    <text x="710" y="30" fill="#00F0FF">⚡ SYSTEM DESIGN</text>
+  </g>
+</svg>
