@@ -27,10 +27,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push Streak SVG
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          mkdir -p profile
-          git add profile/streak.svg
-          git commit -m "chore: update streak stats SVG [skip ci]" || echo "No changes to commit"
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update streak stats SVG [skip ci]"
+          file_pattern: "profile/streak.svg"
