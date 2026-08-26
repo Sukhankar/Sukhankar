@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="300" viewBox="0 0 850 300" fill="none">
+  <rect width="850" height="300" rx="6" fill="#0D1117"/>
+  <text x="425" y="40" fill="#00F0FF" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="18" font-weight="600" text-anchor="middle">Sukhankar's Contribution Activity</text>
+  <path d="M 50 240 Q 150 180 250 210 T 450 140 T 650 170 T 800 80" stroke="#39FF14" stroke-width="3" fill="none"/>
+  <path d="M 50 240 Q 150 180 250 210 T 450 140 T 650 170 T 800 80 L 800 250 L 50 250 Z" fill="#00F0FF" fill-opacity="0.15"/>
+  <circle cx="50" cy="240" r="4" fill="#3B82F6"/>
+  <circle cx="250" cy="210" r="4" fill="#3B82F6"/>
+  <circle cx="450" cy="140" r="4" fill="#3B82F6"/>
+  <circle cx="650" cy="170" r="4" fill="#3B82F6"/>
+  <circle cx="800" cy="80" r="4" fill="#3B82F6"/>
+  <line x1="40" y1="250" x2="810" y2="250" stroke="#00F0FF" stroke-opacity="0.3" stroke-width="1"/>
+  <text x="425" y="275" fill="#8B949E" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="12" text-anchor="middle">Activity Graph updates automatically via GitHub Actions</text>
+</svg>

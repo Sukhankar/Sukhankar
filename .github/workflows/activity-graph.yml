@@ -1,0 +1,45 @@
+name: Update GitHub Activity Graph
+
+on:
+  schedule:
+    # Runs automatically every 4 hours
+    - cron: "0 */4 * * *"
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+concurrency:
+  group: activity-graph
+  cancel-in-progress: false
+
+jobs:
+  update-activity-graph:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref || github.ref_name }}
+          fetch-depth: 0
+
+      - name: Generate Activity Graph SVG
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: "bg_color=0D1117&color=00F0FF&line=39FF14&point=3B82F6&hide_border=true&area=true&area_color=00F0FF30"
+          output_path: profile/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Pull latest changes
+        run: git pull --rebase --autostash origin ${{ github.head_ref || github.ref_name }}
+
+      - name: Commit and Push Activity Graph SVG
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update activity graph SVG [skip ci]"
+          file_pattern: "profile/activity-graph.svg"
+          branch: ${{ github.head_ref || github.ref_name }}

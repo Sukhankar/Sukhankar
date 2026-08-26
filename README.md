@@ -137,7 +137,7 @@ const sukhankar = new Developer({
 
   <p align="center">
     <a href="https://github.com/Sukhankar">
-      <img alt="Sukhankar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sukhankar&bg_color=0D1117&color=00F0FF&line=39FF14&point=3B82F6&hide_border=true&area=true&area_color=00F0FF30" width="95%" />
+      <img alt="Sukhankar's Activity Graph" src="profile/activity-graph.svg" width="95%" />
     </a>
   </p>
 
